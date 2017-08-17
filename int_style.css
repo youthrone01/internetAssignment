@@ -1,0 +1,212 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+    
+    width: 970px;
+    margin: 0 auto;
+}
+
+.header{
+    width: 970px;
+}
+
+.header img{
+    height: 80px;
+    width: 80px;
+    display: inline-block;    
+}
+
+#headtitle{
+    display: inline-block;
+    font-size: 45px;
+    vertical-align: top;
+    padding-top: 10px;
+   
+}
+
+#title{
+    color: white;
+    background-color: #5283AB;
+    height: 45px;
+    padding-top: 5px;
+    text-indent: 10px;
+    margin-top: -18px;
+}
+
+.nvg{
+    height: 600px;
+    width: 200px;
+    margin-top: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#nvgtil{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+#but1{
+    background-color: #5283AB;
+    color: white;
+    width: 200px;
+    height: 35px;
+    border: 1px solid #5283AB;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#but2{
+    background-color: #EE7E00;
+    color: white;
+    width: 200px;
+    height: 35px;
+    border: 1px solid #5283AB;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.nvgimgsec{
+    background-image: url("images/ad_background.png");
+    background-color: #cccccc;
+    margin-top: 30px;
+    height: 340px;
+}
+
+.nvgimgsec p{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.nvgimgsec img{
+    width: 90px;
+    height: 150px;
+    margin-left: 50px;
+}
+
+#but3{
+    background-color: #27C6DF;
+    color: white;
+    width: 180px;
+    height: 35px;
+    border: 1px solid #27C6DF;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.main{
+    height: 700px;
+    width: 735px;
+    margin-left: 30px;
+    /* background-color: grey; */
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 10px;
+}
+.mainheader{
+    border-bottom: 1px solid black;
+    height: 60px;
+}
+.mainheader .icon,#phone, .busphone{
+    display: inline-block;
+    vertical-align: top;    
+}
+
+.icon #home,p{
+    display: inline-block;
+    vertical-align: top; 
+}
+
+#home{
+    height: 16px;
+    width: 16px;
+}
+
+#phone {
+    height: 40px;
+    width: 40px;
+    margin-left: 440px;
+    margin-top: 5px;
+}
+
+
+.busphone{
+    height: 50px;
+    width: 180px;
+    margin-left: 10px;
+}
+.info{
+    font-size: 12px;
+    margin-top: -5px;
+    margin-left: 8px;
+}
+
+#num{
+    font-size: 30px;;
+    color:#27C6Df;
+    font-weight: bold;
+    margin-top: -15px;
+}
+
+.mainmiddle{
+     height: 530px;
+     
+}
+
+.mainmiddle img{
+    height: 120px;
+    width:350px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.maintitle{
+    font-size: 26px;
+    margin-top: 5px;
+    margin-right: 200px;
+    font-weight: bold;
+}
+
+.list{
+    margin-left: 40px;
+}
+
+.mainbottom {
+    border: 3px solid #27C6DF;
+    height: 180px;
+}
+
+.mainbottom img{
+    height: 160px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#learnmore{
+    display: inline-block;
+    width: 490px;
+    height: 160px;
+    vertical-align: top;
+    margin-left: 230px;
+    margin-top: -150px;
+    font-size: 16px;
+}
+span{
+    color: #27C6DF;
+}
+
+#big3 {
+    font-size: 24px;
+    padding-bottom: 5px;
+}
